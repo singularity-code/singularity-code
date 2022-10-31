@@ -13,6 +13,8 @@
 <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=next-dot-js&logoColor=white"/></span>
 
 - Backend : <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
+
+- Database : 
 <span><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></span>
 
 - Mobile App : <span><img src="https://img.shields.io/badge/React Native-61dafb?style=flat&logo=react&logoColor=white"/></span><br/>
