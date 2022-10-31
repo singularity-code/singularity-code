@@ -15,6 +15,7 @@
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
 
 - Database : 
+- 	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <span><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></span>
 
 - Mobile App : <span><img src="https://img.shields.io/badge/React Native-61dafb?style=flat&logo=react&logoColor=white"/></span><br/>
