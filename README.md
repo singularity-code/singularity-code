@@ -50,6 +50,7 @@
 
 ### 🖥 Build Tools :
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-102e38?style=for-the-badge&logo=Gradle&logoColor=white)
 
 ### 🧑🏻‍💻 Version Control : 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
