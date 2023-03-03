@@ -61,6 +61,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Xcode](https://img.shields.io/badge/XCode-4ea4de?style=for-the-badge&logo=Xcode&logoColor=white)
 
 <!-- ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=singularity-code&layout=compact&theme=vue-dark) -->
 
