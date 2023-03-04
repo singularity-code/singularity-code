@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=singularity-code&show_icons=true&theme=vue)
 
-## Technology Stacks
+## Technology Experience
 
 ### 📋 Languages : 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
