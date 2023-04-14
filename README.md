@@ -46,7 +46,7 @@
 
 ### 🖥 Server / Cloud / Container : 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AZURE](https://img.shields.io/badge/azure-%23FF9900.svg?style=for-the-badge&logo=azure&logoColor=blue)
+![AZURE](https://img.shields.io/badge/azure-%230db7ed.svg?style=for-the-badge&logo=azure&logoColor=blue)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
