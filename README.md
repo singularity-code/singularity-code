@@ -1,89 +1,37 @@
-### Hi there 👋
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="SINGULARITY-CODE — The code must flow — PRESS START" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=singularity-code&show_icons=true&theme=vue)
+<p align="center">
+  <a href="https://singularity-code.github.io"><img src="./assets/save-point.svg" height="40" alt="Save point: singularity-code.github.io" /></a>
+</p>
 
-## Technology Experience
+<p align="center">
+  <img src="./assets/player.svg" width="100%" alt="PLAYER 1 — CL, Full Stack, Tech Lead, Sydney. Motto: Make it simple and better." />
+</p>
 
+<p align="center">
+  <img src="./assets/inventory.svg" width="100%" alt="Inventory — TypeScript, JavaScript, Python, Java, C#, C, C++, Swift, React, Vue, Node.js, Spring, Prisma, MySQL, PostgreSQL, MongoDB, AWS, Azure, Docker, Unreal Engine and more" />
+</p>
 
-### 📋 Programming Languages : 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/csharp-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-E44e38.svg?style=for-the-badge&logo=swift&logoColor=white)
+<p align="center">
+  <img src="./assets/game.svg" width="100%" alt="Sandworm attract mode — spice harvested = my live GitHub contributions" />
+</p>
 
-### 💽 Database / ORM : 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+<p align="center">
+  <a href="https://github.com/singularity-code/GoogleAppsScript-SheetToCalendar"><img src="./assets/stage-1.svg" width="49%" alt="Stage 1-1: GoogleAppsScript-SheetToCalendar" /></a>
+  <a href="https://github.com/singularity-code/GoogleAppsScript-FormToCalendar"><img src="./assets/stage-2.svg" width="49%" alt="Stage 1-2: GoogleAppsScript-FormToCalendar" /></a>
+  <a href="https://github.com/singularity-code/scim-endpoint"><img src="./assets/stage-3.svg" width="49%" alt="Stage 2-1: scim-endpoint" /></a>
+  <a href="https://github.com/singularity-code/prisma-express"><img src="./assets/stage-4.svg" width="49%" alt="Stage 2-2: prisma-express" /></a>
+</p>
 
-### 📚 Frameworks, Platforms and Libraries :
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
+<p align="center"><sub>★ BONUS STAGE ★ Korean translations of
+  <a href="https://github.com/singularity-code/ko.reactjs.org">ko.reactjs.org</a> &amp;
+  <a href="https://github.com/singularity-code/ko.javascript.info">ko.javascript.info</a></sub>
+</p>
 
-### 📱Mobile App : 
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<p align="center">
+  <img src="./assets/game-over.svg" width="100%" alt="The code must flow. Continue? Insert coin." />
+</p>
 
-### 🖥 Server / Cloud / Container : 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AZURE](https://img.shields.io/badge/azure-%230db7ed.svg?style=for-the-badge&logo=azure&logoColor=blue)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-
-### 🖥 Build Tools :
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-102e38?style=for-the-badge&logo=Gradle&logoColor=white)
-
-### 🧑🏻‍💻 Version Control : 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![BitBucket](https://img.shields.io/badge/Bit%20Bucket-4388f7?style=for-the-badge&logo=BitBucket&logoColor=white)
-
-### 📡 Others : 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Xcode](https://img.shields.io/badge/XCode-4ea4de?style=for-the-badge&logo=Xcode&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-<!-- ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=singularity-code&layout=compact&theme=vue-dark) -->
-
-<!--
-**singularity-code/singularity-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+<p align="center"><sub>Every graphic here is hand-generated pixel art — see <a href="./scripts">scripts/</a>. Spice counts refresh daily.</sub></p>
