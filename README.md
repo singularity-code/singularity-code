@@ -33,5 +33,3 @@
 <p align="center">
   <img src="./assets/game-over.svg" width="100%" alt="The code must flow. Continue? Insert coin." />
 </p>
-
-<p align="center"><sub>Every graphic here is hand-generated pixel art — see <a href="./scripts">scripts/</a>. Spice counts refresh daily.</sub></p>
